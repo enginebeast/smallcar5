@@ -6,5 +6,5 @@ After, I made the circuit, and started looking for the Bluetooth code on the app
 
 <img src ="https://github.com/user-attachments/assets/b89ba4a0-09fb-4b17-a83e-9b0d80c383b2" width ="400">
 
-At first, I thought I had made an error in my arduino code, or in th circuit wiring, but after some searching I could find another problem. The Bluetooth mocule I purchase, HM-10, doesn't support a basic Bluetooth link. So I had to purchase an HC-06 Bluetooth module, which supports a basic Bluetooth link. From this experience, I realized importance researching commonly usedcomponent, and characteristics of parts I purchase.
+At first, I thought I had made an error in my arduino code, or in the circuit wiring, but after some searching I could find another problem. The Bluetooth mocule I purchase, HM-10, doesn't support a basic Bluetooth link. So I had to purchase an HC-06 Bluetooth module, which supports a basic Bluetooth link. From this experience, I realized importance researching commonly usedcomponent, and characteristics of parts I purchase.
 
